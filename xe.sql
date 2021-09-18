@@ -1,0 +1,3 @@
+CREATE TABLE item_type(
+id NUMBER(19) NOT NULL,
+name VARCHAR2(255) NOT NULL,
